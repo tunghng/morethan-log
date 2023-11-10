@@ -7,13 +7,13 @@ const CONFIG = {
     bio: "Hom nay xem gi",
     email: "lehoangtung081003@gmail.com",
     linkedin: "lehoangtung",
-    github: "tunghamhoc",
-    instagram: "",
+    github: "tunghng",
+    instagram: "h__tungg",
   },
   projects: [
     {
       name: `personal favs`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://open.spotify.com/show/7iQXmUT7XGuZSzAMjoNWlX",
     },
   ],
   // blog setting (required)
@@ -24,7 +24,7 @@ const CONFIG = {
 
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
